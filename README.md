@@ -16,6 +16,12 @@ Projeto de Portfólio desenvolvido com Python para simular um processo completo 
 
 ---
 
+# 📈 Dashboard Gerado
+
+![Dashboard ETL](assets/dashboard.png)
+
+---
+
 📁 Estrutura do Projeto
 
 ```bash
