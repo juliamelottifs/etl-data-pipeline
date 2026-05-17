@@ -1,0 +1,6 @@
+id_venda,id_cliente,id_produto,quantidade,valor_unitario,data,faturamento,nome,cidade,produto,categoria,mes,ano,ticket_medio
+1,101,201,2,1500,2025-01-10,3000,Ana,São Paulo,Notebook,Eletrônicos,1,2025,1500.0
+2,102,202,1,3500,2025-01-11,3500,Carlos,Rio de Janeiro,Smartphone,Eletrônicos,1,2025,3500.0
+3,103,203,3,800,2025-01-12,2400,Julia,Belo Horizonte,Cadeira,Moveis,1,2025,800.0
+4,101,202,1,3500,2025-01-15,3500,Ana,São Paulo,Smartphone,Eletrônicos,1,2025,3500.0
+5,104,201,2,1500,2025-01-18,3000,Marcos,Curitiba,Notebook,Eletrônicos,1,2025,1500.0
