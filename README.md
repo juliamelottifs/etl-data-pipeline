@@ -16,6 +16,12 @@ Projeto de Portfólio desenvolvido com Python para simular um processo completo 
 
 ---
 
+📊 Dashboard do Projeto
+
+![Dashboard ETL](assets/dashboard.png)
+
+---
+
 📁 Estrutura do Projeto
 
 ```bash
@@ -37,3 +43,4 @@ etl-data-pipeline/
 ├── etl_pipeline.py
 ├── requirements.txt
 └── README.md
+
